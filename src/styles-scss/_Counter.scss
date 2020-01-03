@@ -1,0 +1,55 @@
+.counterContainer {
+  width: 80%;
+    height: 200px;
+    background: aqua;
+    margin: auto;
+    padding: 10px;
+}
+.counterContainer__left {
+  width: 15%;
+      height: 200px;
+      background: red;
+      float: left;
+}
+.counterContainer__right {
+  margin-left: 15%;
+      height: 200px;
+      background: black;
+}
+.rowCounter {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+.rowCounter__small {
+  height: 100px;
+  width:200px;
+}
+.rowCounter__medium {
+  height: 100px;
+  width:400px;
+}
+.rowCounter__large {
+  height: 100px;
+  width:600px;
+}
+.counterPerson__small {
+
+}
+.counterPerson__medium {
+  scale: 0.5;
+}
+.counterPerson__large {
+  scale: 0.25;
+}
+
+.tweetTitle {
+
+}
+.tweetText {
+
+}
+.hugeTweetQuote {
+  font-size: 10rem;
+}

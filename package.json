@@ -3,9 +3,21 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "chrisfrew-dot-in-productions-label": "^1.0.0",
     "react": "^16.6.0",
+    "react-chartjs-2": "^2.7.4",
     "react-dom": "^16.6.0",
-    "react-scripts": "2.0.5"
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.0.5",
+    "react-simple-popover": "^0.2.4",
+    "reshake": "^1.1.5",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.83.0",
+    "shortid": "^2.2.13",
+    "socket.io": "^2.1.1",
+    "socket.io-client": "^2.1.1",
+    "styled-components": "^4.0.2",
+    "twit": "^2.2.11"
   },
   "scripts": {
     "start": "react-scripts start",
